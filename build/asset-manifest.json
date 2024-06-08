@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.562ac254.css",
+    "main.js": "./static/js/main.fd928be8.js",
+    "static/media/takoyaki.webp": "./static/media/takoyaki.77f1352c7607e6bee673.webp",
+    "static/media/ramen.webp": "./static/media/ramen.aa09fc5f06d21b70d772.webp",
+    "static/media/bento2.webp": "./static/media/bento2.fb4d52521e7465384bdd.webp",
+    "static/media/about.webp": "./static/media/about.2c26bbb057023864e211.webp",
+    "static/media/sushi.webp": "./static/media/sushi.0ebf969664f16a36f258.webp",
+    "static/media/bento.webp": "./static/media/bento.4da686ddd79049d07f0b.webp",
+    "static/media/chichi.webp": "./static/media/chichi.98099b49b617886a2f39.webp",
+    "static/media/jap.webp": "./static/media/jap.c615828698c0b8259cb6.webp",
+    "static/media/soup.webp": "./static/media/soup.4455f5b19039222bf29d.webp",
+    "static/media/tako.webp": "./static/media/tako.1c656e4b77d19998557e.webp",
+    "static/media/katsu.webp": "./static/media/katsu.04d1ed46d50847d8ac1b.webp",
+    "static/media/chef.jpg": "./static/media/chef.b31d37995c43b973cbad.jpg",
+    "static/media/dango.webp": "./static/media/dango.66404ff12d5a635f37e1.webp",
+    "static/media/logjap.webp": "./static/media/logjap.7501873f27dd1581b2ce.webp",
+    "static/media/food1.webp": "./static/media/food1.93b6d509e42f703c68d4.webp",
+    "static/media/tamagoyaki.webp": "./static/media/tamagoyaki.29e87e83b35db1698094.webp",
+    "index.html": "./index.html",
+    "main.562ac254.css.map": "./static/css/main.562ac254.css.map",
+    "main.fd928be8.js.map": "./static/js/main.fd928be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562ac254.css",
+    "static/js/main.fd928be8.js"
+  ]
+}
